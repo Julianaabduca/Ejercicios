@@ -488,7 +488,6 @@ function esPrimo(numero) {
 }
 esPrimo(5)
 
-//NO ME SALEEEE
   //Escribe una función que reciba un valor booleano y retorne “Soy verdadero”
   //si su valor es true y “Soy falso” si su valor es false.
   //Escribe tu código aquí
